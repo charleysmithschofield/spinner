@@ -21,4 +21,6 @@ We will accomplish this by leveraging \r and setTimeout for spinner1.
    - Removing the space padding at the end of the strings will mean that the cursor will
     sit on top of the animation, making it harder to see.
 
+## Spinner2 - Refactored Spinner1:
 
+  Refactor the log to remove the repeated setTimeout statements.
