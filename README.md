@@ -6,6 +6,7 @@ The purpose of Spinner 1 is to get more practice with setTimeout, by creating a 
 
 We will accomplish this by leveraging \r and setTimeout for spinner1.
 
+
 ## How this Works:
  How This Works:
 
@@ -20,6 +21,7 @@ We will accomplish this by leveraging \r and setTimeout for spinner1.
 
    - Removing the space padding at the end of the strings will mean that the cursor will
     sit on top of the animation, making it harder to see.
+
 
 ## Spinner2 - Refactored Spinner1:
 
